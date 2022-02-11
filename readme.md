@@ -17,7 +17,7 @@ Con esta una aplicación React Native podemos leer y actualizar un contrato en l
 git clone git@github.com:nestorbonilla/celo-rn-truffle.git
 ```
 
-<em>\* Si deseas crear tu propio proyecto con React Native utilizando Truffle sin clonar este repositorio, también he creado un [tutorial](https://nestorbonilla.gitbook.io/celo/truffle/mi-primer-proyecto) en el que te explico paso a paso como hacerlo.</em>
+<em>\* Si deseas crear tu propio proyecto con React Native utilizando Truffle sin clonar este repositorio, también he creado un [tutorial](https://nestorbonilla.gitbook.io/celo/truffle/mi-primer-proyecto) en el que te explico paso a paso como hacerlo. Y si quieres comprender mejor cómo integrar cUSD en tu proyecto tengo esta otra [guía](https://nestorbonilla.gitbook.io/celo/integrando-cusd) para ti.</em>
 
 La configuración y los contratos inteligentes del proyecto se encuentran en el directorio raíz. El front-end de React Native está en el directorio `/client`. Una vez hayas clonado el repositorio, ejecuta:
 
